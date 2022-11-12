@@ -1,4 +1,4 @@
-### Olá! Me chamo Paulo Silva 👋
+### Olá, Rede! Me chamo Paulo Silva 👋
 
 <div align="center">
   <a href="https://github.com/PaauloSilva">
