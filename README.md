@@ -1,5 +1,9 @@
 ### Olá Rede! Me chamo Paulo Silva 👋
 
+<p>Estou me formado em Análise e Desenvolvimento de Sistemas pela <a href="https://www.linkedin.com/school/faculdade-fecaf/">FECAF</a>, tenho 24 anos e estudo desenvolvimento web.</p>
+
+<p>Nesse Git você vai encontrar alguns projetos pessoais e trabalhos da faculdade, sinta-se livre para explorar e modificar.</p> 
+
 <div align="center">
   <a href="https://github.com/PaauloSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaauloSilva&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
