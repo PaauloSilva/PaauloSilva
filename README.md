@@ -2,7 +2,7 @@
 
 <p>Estou me formado em Análise e Desenvolvimento de Sistemas pela <a href="https://www.linkedin.com/school/faculdade-fecaf/">FECAF</a>, tenho 24 anos e estudo desenvolvimento web.</p>
 
-<p>Nesse Git você vai encontrar alguns projetos pessoais e trabalhos da faculdade, sinta-se livre para explorar e modificar.</p> 
+<p>Nesse Git você vai encontrar alguns projetos pessoais e trabalhos da faculdade.</p> 
 
 <div align="center">
   <a href="https://github.com/PaauloSilva">
