@@ -1,6 +1,6 @@
 ### Olá Rede! Me chamo Paulo Silva 👋
 
-<p>Estou me formado em Análise e Desenvolvimento de Sistemas pela <a href="https://www.linkedin.com/school/faculdade-fecaf/">FECAF</a>, tenho 24 anos e estou me especializando em desenvolvimento web.</p>
+<p>Estou me formado em Análise e Desenvolvimento de Sistemas pela <a href="https://www.linkedin.com/school/faculdade-fecaf/">FECAF</a>, tenho 24 anos e atualmente estou me especializando em desenvolvimento web.</p>
 
 <p>Nesse Git você vai encontrar alguns projetos pessoais e trabalhos da faculdade.</p> 
 
